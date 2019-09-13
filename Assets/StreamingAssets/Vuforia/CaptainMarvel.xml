@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="captain-marvel-1117Wx1400H-440955454-white-MODEL3" size="400.000000 400.359070" />
+  </Tracking>
+</QCARConfig>
